@@ -2,6 +2,9 @@ backend:
   name: github
   branch: master
   repo: AjGabriel/gatsby-starter-bootstrap-netlify
+  accept_roles:
+    - admin
+    - editor
 
 media_folder: "/static/files/"
 public_folder: "/files/"
