@@ -44,12 +44,6 @@ const TemplateWrapper = ({ children, data }) => {
                 Examples
               </Link>
             </li>
-
-            <li className="nav-item">
-              <Link to="/portfolio" className="nav-link">
-                Portfolio
-              </Link>
-            </li>
           </ul>
         </Container>
       </div>
