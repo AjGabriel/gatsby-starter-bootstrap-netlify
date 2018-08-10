@@ -1,5 +1,5 @@
 backend:
-  name: bitbucket
+  name: github
   branch: master
   repo: AjGabriel/gatsby-starter-bootstrap-netlify
 
